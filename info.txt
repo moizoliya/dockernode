@@ -1,0 +1,4 @@
+ubuntu1404server
+
+uid : moiz
+pd : password
